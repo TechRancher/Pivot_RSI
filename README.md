@@ -1,6 +1,6 @@
 # Pivot RSI  
 
-**Discloser** _In order to demonstrate the functionality of my script, I used actual symbol in the chart image. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility._  
+**Disclaimer:** _In order to demonstrate the functionality of my script, I used actual ticker symbols in the chart images. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility. Be sure to backtest any strategy to determine if you understand the risks involved with each strategy._
 
 This is like the StochRSI script, But I had changed somethings in order for it to work with a strategy I call "Pivot On EMA", _use this link to learn more about this strategy: [PivotOnEMA](https://www.github.com/TechRancher/PivotOnEMA/)_, which will help indicate when to buy or sell.
 
